@@ -8,4 +8,4 @@ def recurring_numbers(lst,n):
     print(final_list) 
 
 
-recurring_numbers([2,5,4,1,3,6,2,1,2,4,5,4],2)
+recurring_numbers(2,5,4,1,3,6,2,1,2,4,5,4,2)
